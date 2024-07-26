@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Shivansh Srivastava
 
 I'm a recent graduate with a degree in Electronics Engineering, and I'm excited to start my journey in the world of software engineering and embedded systems. My academic background has equipped me with a solid foundation in electronics, and I'm eager to apply my skills to real-world challenges and contribute to innovative projects.
 
